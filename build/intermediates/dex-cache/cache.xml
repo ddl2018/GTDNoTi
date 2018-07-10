@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/min/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-1.3.9_f98c7a929318e4fa418baae0aefd14c7601df7b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-13.0_c720597ef5b7b71a8c59dcca7d2df6996d7e6400/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_d575250fbc3d32ba100c419feece54204f74a827/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.20.0_25a1b8006f8e296ef13c12952b891251aa07db06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.android/build-cache/c484ae29d27c1fd2ebba8378a610403af7a52858/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f3285f43064e09bd6c3fbd3300c47c5c543e773/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.android/build-cache/a2cb8343dcbc57dad6c441cd61ae90f8c0162dbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e988d8c469b6f9639ca07dad3e4799dbcce19f71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.android/build-cache/0dd5f79126a7da63ea6cae12b8de2814418461c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5eeb70d1bd8c3fcf6af72a01e18ab8e065182225/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.android/build-cache/3cb61293279b8bdc337e124108661900c52ed57b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_618147538b6e57dfd3b8ac19128ce4c2594ae88c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.android/build-cache/7c6bff79a1f18edb0807950964cddcb6bd758aa6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b590b92ee93d16d3e5d4175360408e37d3d3c4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="00b7ee68de92899dfaf44bcb4c13f67b7121aacc">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_212b0a1853d2e8f237063fd8504551827db5219e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.android/build-cache/1b127d85495b9bbd7b731cacf5653c72a4f997ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c92a0a7f62c93fddb09378558c2d5ebcca2e257f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.20.0_65eb752aef37c655f4a8168a48e8aac2a55c084d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-android-1.20.0_73318c4e650a2ca2ed1edf077cf60b71160d1da7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.android/build-cache/0cd575c1f2b22989023cc177314509fde2abf985/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_bb3bd2b1a148b00ababde126f88b5f5e64be3753/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.20.0_4e1df1700b6633b92c810e7e128ce51fbbd4d161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.android/build-cache/e663128791983c930f117b2f991d1ad5e50e5c51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf617fdc4d7e0e2ab892d4f8c5e074e0ecb2a82b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_af36ed2d96f348745d9e8d041f8520670d133887/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.android/build-cache/0cd575c1f2b22989023cc177314509fde2abf985/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cd0b83688c340b281ee60a94efaa28955ac2c66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.20.0/313dc99a7963523871495897ca11aa8472b3c6fd/google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-android-1.20.0_71cc2a2f99cddd9c797b6d0fb3a119d6ac9c221c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_824cba92fcb34ceaab0e1a861ab6b5ba556ecb15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.20.0_9bb3fb338d6ca7b2045284a976c9056c69765c8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/min/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-calendar/v3-rev125-1.20.0/fef496f895ad5be86416863153d4efbf7b601f8a/google-api-services-calendar-v3-rev125-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fef496f895ad5be86416863153d4efbf7b601f8a">
+        <dex dex="/home/min/workspace-android/GTDNoTi/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-services-calendar-v3-rev125-1.20.0_2ffee8a3fd835d1f9297021ef8f33eea1a43160b/classes.dex" />
+    </item>
+
+</items>
